@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\soumendra\documents\visual studio 2015\projects\facedetect\facedetect\source.cpp(98): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\soumendra\documents\visual studio 2015\projects\facedetect\facedetect\source.cpp(99): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  facedetect.vcxproj -> C:\Users\Soumendra\documents\visual studio 2015\Projects\facedetect\x64\Debug\facedetect.exe
+  facedetect.vcxproj -> C:\Users\Soumendra\documents\visual studio 2015\Projects\facedetect\x64\Debug\facedetect.pdb (Full PDB)
